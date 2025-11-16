@@ -27,7 +27,7 @@ Windows Registry Editor Version 5.00
     [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting]
     "Disabled"=dword:00000001
 
-    ; Disables Copilot (WIndows 11 has no effect on Windows 10)
+    ; Disables Copilot (Windows 11 has no effect on Windows 10)
     [HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\WindowsCopilot]
     "TurnOffWindowsCopilot"=dword:00000001
     
